@@ -6,6 +6,5 @@ workbox.routing.registerRoute(
   workbox.strategies.cacheFirst()
 );
 workbox.precaching.precacheAndRoute(self.__WB_MANIFEST);
-workbox.precaching.precacheAndRoute([]);
 
 // custom adjustments
