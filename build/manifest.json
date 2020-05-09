@@ -5,7 +5,7 @@
   "background_color": "#0061af",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "https://robcoppinger.github.io/pwa-demo/build/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
